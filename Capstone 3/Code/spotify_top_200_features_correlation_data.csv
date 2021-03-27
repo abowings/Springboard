@@ -1,0 +1,79 @@
+,variable_1,variable_2,correlation_coefficient,correlation_class
+1,Position,Stream Count/Week,-0.7667139401325153,LOW
+2,Position,length,0.07968447995808578,LOW
+3,Position,popularity,-0.1389263703409826,LOW
+4,Position,danceability,-0.06200049739428012,LOW
+5,Position,acousticness,0.04150286945707972,LOW
+6,Position,energy,-0.0150618639658969,LOW
+7,Position,instrumentalness,0.027392104862019585,LOW
+8,Position,liveness,-0.024292181496274167,LOW
+9,Position,loudness,-0.02151116863959537,LOW
+10,Position,speechiness,-0.004015549173937206,LOW
+11,Position,tempo,-0.028448802827012325,LOW
+12,Position,time_signature,-0.014776454803659354,LOW
+15,Stream Count/Week,length,-0.0653716420548636,LOW
+16,Stream Count/Week,popularity,0.14166725293194538,LOW
+17,Stream Count/Week,danceability,0.031172510803935478,LOW
+18,Stream Count/Week,acousticness,-0.030661292864460434,LOW
+19,Stream Count/Week,energy,0.02137302248341831,LOW
+20,Stream Count/Week,instrumentalness,-0.034865782668470076,LOW
+21,Stream Count/Week,liveness,0.03939809633753039,LOW
+22,Stream Count/Week,loudness,-0.01782570803966555,LOW
+23,Stream Count/Week,speechiness,-0.016204407759130512,LOW
+24,Stream Count/Week,tempo,0.05025915665339,LOW
+25,Stream Count/Week,time_signature,0.012584277512460112,LOW
+29,length,popularity,0.02647434286632335,LOW
+30,length,danceability,-0.15867039275448153,LOW
+31,length,acousticness,-0.004203408889701837,LOW
+32,length,energy,0.04185380311526811,LOW
+33,length,instrumentalness,0.0203187093432488,LOW
+34,length,liveness,-0.02525169442804947,LOW
+35,length,loudness,0.06452095817911893,LOW
+36,length,speechiness,-0.05411551323707254,LOW
+37,length,tempo,-0.0020017824534096754,LOW
+38,length,time_signature,-0.007522347391196681,LOW
+43,popularity,danceability,-0.021200634238111832,LOW
+44,popularity,acousticness,0.03406093285527729,LOW
+45,popularity,energy,-0.05554625347453185,LOW
+46,popularity,instrumentalness,0.01065624187773957,LOW
+47,popularity,liveness,-0.016260005875478427,LOW
+48,popularity,loudness,-0.006975772866472335,LOW
+49,popularity,speechiness,0.05544270965134987,LOW
+50,popularity,tempo,-0.050955002119095594,LOW
+51,popularity,time_signature,0.10751224826257175,LOW
+57,danceability,acousticness,-0.32690320935596134,LOW
+58,danceability,energy,0.20427044266409247,LOW
+59,danceability,instrumentalness,-0.05925486627837709,LOW
+60,danceability,liveness,-0.08886458542328436,LOW
+61,danceability,loudness,0.2792761367352704,LOW
+62,danceability,speechiness,0.21873456351270032,LOW
+63,danceability,tempo,0.0679484757860625,LOW
+64,danceability,time_signature,0.0825970348742853,LOW
+71,acousticness,energy,-0.6036012639091501,LOW
+72,acousticness,instrumentalness,0.12154541069158999,LOW
+73,acousticness,liveness,-0.055506043526347616,LOW
+74,acousticness,loudness,-0.43416528644641267,LOW
+75,acousticness,speechiness,-0.10841775471680021,LOW
+76,acousticness,tempo,-0.1601930742182755,LOW
+77,acousticness,time_signature,-0.04023841592654235,LOW
+85,energy,instrumentalness,-0.13939952307739256,LOW
+86,energy,liveness,0.09349866644951721,LOW
+87,energy,loudness,0.7265191545513601,HIGH
+88,energy,speechiness,0.07027242785878435,LOW
+89,energy,tempo,0.1574524198408809,LOW
+90,energy,time_signature,0.11289278298928745,LOW
+99,instrumentalness,liveness,0.0566645915100529,LOW
+100,instrumentalness,loudness,-0.24551483908844127,LOW
+101,instrumentalness,speechiness,-0.005640868202860535,LOW
+102,instrumentalness,tempo,0.006643921759563921,LOW
+103,instrumentalness,time_signature,-0.04586607931290539,LOW
+113,liveness,loudness,-0.008830320752928916,LOW
+114,liveness,speechiness,-0.04608490014272708,LOW
+115,liveness,tempo,0.03217458915977746,LOW
+116,liveness,time_signature,-0.09318947158963684,LOW
+127,loudness,speechiness,0.00225952761453238,LOW
+128,loudness,tempo,0.13708769183283603,LOW
+129,loudness,time_signature,0.0759765707639567,LOW
+141,speechiness,tempo,0.2230655907909757,LOW
+142,speechiness,time_signature,0.07123990806122746,LOW
+155,tempo,time_signature,0.02064304044933365,LOW
