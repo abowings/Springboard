@@ -1,0 +1,6 @@
+explained_variance:  0.2736
+mean_squared_log_error:  0.0212
+r2:  0.2736
+MAE:  4112991.1358
+MSE:  54385096712330.62
+RMSE:  7374625.1913
